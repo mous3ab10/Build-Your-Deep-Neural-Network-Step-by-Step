@@ -1,7 +1,7 @@
 import numpy as np
 import copy
 from utils import sigmoid, sigmoid_backward, relu, relu_backward
-# Moussab AHMAT
+# Moussab Ahmat
 
 # ------------------------- Initialisation -------------------------
 def initialize_parameters(n_x, n_h, n_y):
